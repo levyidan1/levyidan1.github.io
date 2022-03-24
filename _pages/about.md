@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: My personal website.
-subtitle: Algorithm Engineer
+subtitle: Computer Science MSc. student at Technion.
 
 profile:
   align: right
