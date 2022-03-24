@@ -1,10 +1,6 @@
 ---
 name: Feature request
-<<<<<<< HEAD
 about: Suggest an idea for this project
-=======
-about: Suggest an idea for this research
->>>>>>> parent of c7cd059... Revert "Revert "blog/index-inactive->blog/index""
 title: ''
 labels: enhancement
 assignees: ''
