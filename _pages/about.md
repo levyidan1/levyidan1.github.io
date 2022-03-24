@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
 layout: about
 title: about
 permalink: /
 description: My personal website.
 subtitle: Algorithm Engineer
+=======
+layout: About
+title: About
+permalink: /
+description: My personal website.
+subtitle: Computer Science MSc Student at Technion
+>>>>>>> parent of c7cd059... Revert "Revert "blog/index-inactive->blog/index""
 
 profile:
   align: right
