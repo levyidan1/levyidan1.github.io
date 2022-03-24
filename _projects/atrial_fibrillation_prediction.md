@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Atrial Fibrillation Prediction
-description: This page describes the work achieved in the project.
+description: This page describes the work we achieved in this research.
 img: assets/img/AF-Episode.png
 importance: 1
 category: Technion
