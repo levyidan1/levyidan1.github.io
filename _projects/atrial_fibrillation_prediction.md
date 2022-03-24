@@ -160,11 +160,11 @@ was used for training the model and 20% was used for testing the model.
 
 Evaluation methods:
 
-$$𝑨𝒄𝒄𝒖𝒓𝒂𝒄𝒚 = ((𝑻𝑷 + 𝑻𝑵) / (𝑻𝑷 + 𝑻𝑵 + 𝑭𝑷 + 𝑭𝑵)) = 87.9\% $$
+$$Accuracy = ((TP + TN) / (TP + TN + FP + FN)) = 87.9\% $$
 
 $$Recall = ((TP) / (TP + FN)) = 74.4\% $$
 
-$$Precision = ((𝑻𝑷) / (TP + FP)) = 72.1\% $$
+$$Precision = ((TP) / (TP + FP)) = 72.1\% $$
 
 $$Specifity = ((TN) / (TN + FP)) = 91.8\% $$
 

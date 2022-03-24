@@ -1,8 +1,8 @@
 ---
 layout: page
 title: research
-permalink: /projects
-description: A collection of my projects.
+permalink: /research
+description: A collection of my research.
 nav: true
 display_categories: [Technion]
 horizontal: false
