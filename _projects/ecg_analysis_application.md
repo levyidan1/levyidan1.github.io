@@ -103,8 +103,8 @@ Screenshots of the application:
     Demonstration of the application.
 </div>
 
-Video demonstration:
-video
+# Video demonstration:
+# video
 
 ## Diagnosed Diseases
 
