@@ -2,7 +2,7 @@
 layout: distill
 title: ECG Analysis Application
 description: We created an application for the automatic diagnosis of 12-lead ECG images.
-img: assets/img/ecg-application.png
+img: assets/img/explainability.jpeg
 importance: 1
 category: Technion
 date: 2023-01-22
@@ -63,7 +63,7 @@ test, and these hours can be critical in certain conditions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ecg-application.png" title="Application for the automatic diagnosis of 12-lead ECG images" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/main_screen.jpeg" title="Application for the automatic diagnosis of 12-lead ECG images" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -83,17 +83,24 @@ Screenshots of the application:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ecg-application-2.png" title="Application for the automatic diagnosis of 12-lead ECG images - App demonstration 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/results_page.jpeg" title="Application for the automatic diagnosis of 12-lead ECG images - App demonstration 2" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Demonstration of the application.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ecg-application-3.png" title="Application for the automatic diagnosis of 12-lead ECG images - App demonstration 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/result_page.jpeg" title="Application for the automatic diagnosis of 12-lead ECG images - App demonstration 2" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/explainability.jpeg" title="Application for the automatic diagnosis of 12-lead ECG images - App demonstration 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Demonstration of the application.
 </div>
 
 Video demonstration:
