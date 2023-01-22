@@ -103,9 +103,6 @@ Screenshots of the application:
     Demonstration of the application.
 </div>
 
-# Video demonstration:
-# video
-
 ## Diagnosed Diseases
 
 We diagnose a total of 23 different cardiac conditions, with accuracy scores of 85% or higher.
